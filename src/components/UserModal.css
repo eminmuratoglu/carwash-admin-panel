@@ -1,0 +1,30 @@
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.modalBody .tabPanel {
+  padding: 24px 0 0 0;
+  height: 100%;
+  margin-top: 0.5rem;
+}
+
+.modalContent {
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: auto auto; 
+  grid-gap: 1rem; 
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modalContent .editInput {
+  width: 250px;
+}
+
+.closeModalBtn {
+  cursor: pointer;
+}
+.closeModalBtn:hover {
+  color: gray;
+}

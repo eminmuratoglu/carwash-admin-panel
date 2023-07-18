@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Frank Lampard",
+      "email": "franklampard@example.com",
+      "phone": "1234567890",
+      "address": "123 Main St, City, State",
+      "active_subscriptions": [
+        {
+          "plan": "Premium",
+          "start_date": "2023-07-01",
+          "end_date": "2024-06-30",
+          "car_plate": "AAA111"
+        },
+        {
+          "plan": "Standard",
+          "start_date": "2020-01-01",
+          "end_date": "2030-01-01",
+          "car_plate": "UIO098"
+        }
+      ],
+      "purchase_history": [
+        {
+          "plan": "Basic",
+          "start_date": "2023-06-01",
+          "end_date": "2023-06-30",
+          "car_plate": "XYZ789"
+        },
+        {
+          "plan": "Premium",
+          "start_date": "2022-07-01",
+          "end_date": "2023-06-30",
+          "car_plate": "ABC123"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Steven Gerrard",
+      "email": "stevengerrard@example.com",
+      "phone": "9876543210",
+      "address": "456 Elm St, City, State",
+      "active_subscriptions": [
+        {
+          "plan": "Standard",
+          "start_date": "2023-07-05",
+          "end_date": "2024-07-04",
+          "car_plate": "BBB222"
+        }
+      ],
+      "purchase_history": [
+        {
+          "plan": "Basic",
+          "start_date": "2023-05-01",
+          "end_date": "2023-05-31",
+          "car_plate": "MNO456"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lionel Messi",
+      "email": "lionelmessi@example.com",
+      "phone": "5555555555",
+      "address": "789 Oak St, City, State",
+      "active_subscriptions": [
+        {
+          "plan": "Basic",
+          "start_date": "2023-07-10",
+          "end_date": "2024-07-09",
+          "car_plate": "CCC333"
+        }
+      ],
+      "purchase_history": [
+        {
+          "plan": "Standard",
+          "start_date": "2022-07-01",
+          "end_date": "2023-06-30",
+          "car_plate": "XYZ789"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Thierry Henry",
+      "email": "thierryhenry@example.com",
+      "phone": "1111111111",
+      "address": "321 Pine St, City, State",
+      "active_subscriptions": [
+        {
+          "plan": "Premium",
+          "start_date": "2023-07-15",
+          "end_date": "2024-07-14",
+          "car_plate": "DDD444"
+        }
+      ],
+      "purchase_history": [
+        {
+          "plan": "Basic",
+          "start_date": "2023-07-01",
+          "end_date": "2023-07-31",
+          "car_plate": "PQR789"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Michael Owen",
+      "email": "michaelowen@example.com",
+      "phone": "2222222222",
+      "address": "654 Maple St, City, State",
+      "active_subscriptions": [
+        {
+          "plan": "Standard",
+          "start_date": "2023-07-20",
+          "end_date": "2024-07-19",
+          "car_plate": "EEE555"
+        }
+      ],
+      "purchase_history": [
+        {
+          "plan": "Premium",
+          "start_date": "2022-01-01",
+          "end_date": "2023-01-01",
+          "car_plate": "ABC123"
+        }
+      ]
+    }
+  ]
+}
